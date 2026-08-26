@@ -1,244 +1,190 @@
-# 🎀 Hiii, I'm Dorsa! 🖤💗
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;Future+ML+Engineer+%F0%9F%A4%96;Coding+with+K-pop+%F0%9F%8E%A7;Welcome+to+my+little+corner+of+GitHub+%F0%9F%8E%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=DORSA.exe&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%8E%80;Computer+Engineering+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;Future+ML+Engineer+%F0%9F%A4%96;Coding+with+K-pop+%F0%9F%8E%A7" />
 
 <br>
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│        💗 D O R S A . E X E 💗                      │
-│                                                      │
-│   💻 code        🎧 music        🎀 chaos            │
-│                                                      │
-│   status : ✨ currently becoming better ✨           │
-│   mood   : ☕ + 🎧 + 💻                              │
-│   bug    : probably somewhere... 👀                 │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+[![GitHub](https://img.shields.io/badge/GitHub-Dorsampd-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dorsampd)
+[![Profile Views](https://komarev.com/ghpvc/?username=Dorsampd\&color=ff69b4\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/Dorsampd)
+
+</div>
 
 ---
 
-## 🌸 `who_am_i();`
+## 🎀 About Me
 
 ```python
 class Dorsa:
 
-    name = "Dorsa 🎀"
-    username = "dorsamp"
     major = "Computer Engineering 🎓"
 
     interests = [
         "Python 🐍",
         "Web Development 🌐",
         "Machine Learning 🤖",
-        "Linux 🐧",
-        "Creative Projects ✨"
+        "Linux 🐧"
     ]
 
     hobbies = [
-        "Listening to music 🎧",
-        "K-pop 🖤💗",
-        "Building websites 💻",
-        "Learning new things 📚"
+        "K-pop 🎧",
+        "Coding 💻",
+        "Creative Projects ✨"
     ]
 
-    current_status = "loading... ⏳"
-
-    def say_hi(self):
-        return "Hello, world! 💗"
+    motto = "make it work, then make it pretty 🎀"
 ```
+
+💻 Building things with code
+🐍 Learning Python & Django
+🤖 Exploring Machine Learning
+🎧 Coding with music on
+🎀 Making everything a little prettier
 
 ---
 
-# 💻 `my_tech_stack`
+## 💻 Tech Stack
 
-### 🐍 Languages
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-ff1493?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ff69b4?style=for-the-badge\&logo=php\&logoColor=white)
 
-### 🌐 Frameworks & Tools
-
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge\&logo=django\&logoColor=0CCB7A)
-![WordPress](https://img.shields.io/badge/WordPress-ff69b4?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-ff1493?style=for-the-badge\&logo=github\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-ff69b4?style=for-the-badge\&logo=django\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![Git](https://img.shields.io/badge/Git-ff1493?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
 
-### 🤖 AI / Data
+![OpenCV](https://img.shields.io/badge/OpenCV-ff69b4?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge\&logo=googlebrain\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ff1493?style=for-the-badge\&logo=pandas\&logoColor=white)
+</div>
 
 ---
 
-# 🎀 `currently_working_on`
+## 🌸 Currently Learning
 
 ```text
-🐍 Python              ████████████████░░░  85%
-🌐 Web Development     █████████████░░░░░  70%
-🤖 Machine Learning    █████████░░░░░░░░  50%
-🐧 Linux               ████████░░░░░░░░░  45%
-🇩🇪 German             ███████░░░░░░░░░░  40%
+🐍 Python              ████████████████░░  85%
+🌐 Web Development     █████████████░░░░  70%
+🤖 Machine Learning    █████████░░░░░░░  50%
+🐧 Linux               ████████░░░░░░░░  45%
+🇩🇪 German             ███████░░░░░░░░  40%
 ```
 
-> `Dorsa.exe` is still under development... 💿✨
+`Dorsa.exe is updating...` 💿✨
 
 ---
 
-# 🧠 `my_brain.exe`
+## 🎧 Coding Mood
+
+<div align="center">
 
 ```text
-💡 "I have an idea!"
-        ↓
-💻 start coding
-        ↓
-😊 everything works
-        ↓
-✨ make one tiny change
-        ↓
-💥 EVERYTHING BREAKS
-        ↓
-👁️👄👁️
-        ↓
-🔎 search for the error
-        ↓
-☕ coffee
-        ↓
-🧠 understand the problem
-        ↓
-🎉 FIXED!!!
-        ↓
-💥 break something else
+╭─────────────────────────────────────╮
+│                                     │
+│       🎧 CODING MODE: ON            │
+│                                     │
+│       BLACKPINK 🖤💗                │
+│       BTS 💜                        │
+│       Rosé 🌹                       │
+│       Jennie 🐻                     │
+│                                     │
+│       headphones = productivity     │
+│                                     │
+╰─────────────────────────────────────╯
 ```
 
-### Average commit message:
+</div>
+
+---
+
+## 🚀 Projects
+
+|      🎀 Project      |   💭 Status   |
+| :------------------: | :-----------: |
+|    🌐 Web Projects   | `BUILDING...` |
+|  🐍 Python Projects  |    `ACTIVE`   |
+|    🤖 ML Projects    | `LEARNING...` |
+| 🎨 Creative Projects |   `CHAOTIC`   |
+
+---
+
+## 🧠 Debugging Status
 
 ```text
-"why"
-"please work"
-"okay now it works"
-"final final"
-"FINAL FINAL 2"
-"actually_final"
+Code       → 💻
+Coffee     → ☕
+Bugs       → 🐛🐛🐛
+Sleep      → ❌
+Motivation → 🎧
 ```
 
+> `404: sleep not found.`
+
 ---
 
-# 🎧 `coding_playlist`
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dorsampd&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff1493" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Dorsampd&theme=radical&hide_border=true&background=00000000&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4" />
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dorsampd/Dorsamp/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dorsampd/Dorsamp/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dorsampd/Dorsamp/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 💗 Fun Facts
 
 ```text
-╭──────────────────────────────────────╮
-│                                      │
-│       🎧 CODING MODE: ON             │
-│                                      │
-│       BLACKPINK 🖤💗                 │
-│       BTS 💜                         │
-│       Rosé 🌹                        │
-│       Jennie 🐻                      │
-│       Shadmehr 🎶                    │
-│       Mohsen Yeganeh 🎵              │
-│                                      │
-│       headphones = productivity      │
-│                                      │
-╰──────────────────────────────────────╯
-```
+♡ I like making serious things cute.
 
-`music.play()` → `code.write()` → `coffee.drink()` → `repeat()` ♻️
+♡ I can spend hours fixing one tiny bug.
 
----
+♡ My headphones are part of my operating system.
 
-# 🚀 `things_i_build`
+♡ Sometimes the code works and I don't know why.
 
-```text
-┌────────────────────────────────────────┐
-│ 🌐 WEB PROJECTS                        │
-│ making websites that hopefully behave  │
-├────────────────────────────────────────┤
-│ 🐍 PYTHON PROJECTS                     │
-│ turning caffeine into Python           │
-├────────────────────────────────────────┤
-│ 🤖 ML PROJECTS                         │
-│ teaching computers some magic          │
-├────────────────────────────────────────┤
-│ 🎀 RANDOM EXPERIMENTS                  │
-│ "what happens if I try this?"          │
-└────────────────────────────────────────┘
-```
-
----
-
-# 📊 `github_stats`
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dorsamp&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff1493&text_color=ffffff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dorsamp&theme=radical&hide_border=true&background=00000000&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4" />
-
-</p>
-
----
-
-# 🐍 `my_contributions_are_being_eaten`
-
-<p align="center">
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
-
-# 🌷 `a_little_message`
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│  "Small steps still move you forward." ✨  │
-│                                            │
-│       keep learning.                      │
-│       keep creating.                      │
-│       keep coding.                        │
-│                                            │
-│                 — Dorsa 🎀                │
-│                                            │
-╰────────────────────────────────────────────╯
+♡ If it works... DON'T TOUCH IT. 😭
 ```
 
 ---
 
-# 💌 `thanks_for_visiting`
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dorsamp&color=ff69b4&style=for-the-badge&label=PEOPLE+WHO+STALKED+MY+PROFILE" />
+### 🎀 Thanks for visiting my little corner of GitHub! 🎀
 
-<br><br>
+`code • create • learn • repeat`
 
-```text
-♡ ───────────────────────────────────── ♡
+🖤💗🖤💗🖤💗
 
-       YOU FOUND MY LITTLE CORNER
-              OF THE INTERNET 🎀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer"/>
 
-          now go check my repos 👀
-
-♡ ───────────────────────────────────── ♡
-```
-
-### 🖤💗 `code • create • repeat • slay` 💗🖤
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-</p>
+</div>
 
 <!--
   Dorsa.exe
-  made with ☕ + 🎧 + 💻 + questionable decisions
-  © dorsamp
+  made with ☕ + 🎧 + 💻 + a little chaos
+  github.com/Dorsampd
 -->
