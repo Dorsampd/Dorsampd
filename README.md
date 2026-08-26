@@ -69,9 +69,7 @@
 
 ---
 
-### 🎀 CURRENTLY PLAYING...
 
-<img src="https://img.shields.io/badge/🎧_K--POP-ff69b4?style=for-the-badge&labelColor=111111">
 
 <br><br>
 
