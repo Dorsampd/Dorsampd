@@ -41,7 +41,7 @@
 
 <br><br>
 
-`🔥 SHUT DOWN`　`💗 PINK VENOM`　`🎀 SOLO`
+`🔥 SHUT DOWN`　`💗 Go`　`🎀 Jump`
 
 <br><br>
 
@@ -63,7 +63,7 @@
 
 <br><br>
 
-`💜 Dynamite`　`✨ Butter`　`🌙 Spring Day`
+`💜 Merry Go Round`　`✨ Mic Drop`　`🌙 Come Over`
 
 <br><br>
 
@@ -83,17 +83,17 @@
 
 <br><br>
 
-💗 **BLACKPINK**  
-`SHUT DOWN`　`PINK VENOM`　`SOLO`
+🐰 **JISOO**  
+`FLOWER`　`ALL EYES ON ME`　`EARTHQUAKE`
 
 🌹 **ROSÉ**  
-`Gone`　`On The Ground`　`APT.`
+`Gone`　`On The Ground`　`3Am`
 
 🐻 **JENNIE**  
-`SOLO`　`You & Me`　`Mantra`
+`Seoul City`　`You & Me`　`Mantra`
 
-💜 **BTS**  
-`Dynamite`　`Butter`　`Spring Day`
+🐱 **LISA**  
+`ROCKSTAR`　`NEW WOMAN`　`MOONLIT FLOOR`
 
 <br>
 
