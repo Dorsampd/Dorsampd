@@ -75,20 +75,34 @@
 
 <br><br>
 
-```text
-╭──────────────────────────────────────╮
-│                                      │
-│       🎧  D O R S A . E X E          │
-│                                      │
-│       ♫ BLACKPINK                    │
-│       ♫ BTS                          │
-│       ♫ Rosé                         │
-│       ♫ Jennie                       │
-│                                      │
-│       ♪ coding with music on         │
-│                                      │
-╰──────────────────────────────────────╯
+<div align="center">
 
----
+### 🎧 ୨୧ DORSA'S MUSIC ୨୧
+
+<img src="https://img.shields.io/badge/now_playing-ff69b4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=111111">
+
+<br><br>
+
+💗 **BLACKPINK**  
+`SHUT DOWN`　`PINK VENOM`　`SOLO`
+
+🌹 **ROSÉ**  
+`Gone`　`On The Ground`　`APT.`
+
+🐻 **JENNIE**  
+`SOLO`　`You & Me`　`Mantra`
+
+💜 **BTS**  
+`Dynamite`　`Butter`　`Spring Day`
+
+<br>
+
+<img src="https://img.shields.io/badge/♡_K--POP_IS_MY_CODING_SOUNDTRACK_♡-111111?style=for-the-badge&labelColor=ff69b4">
+
+<br><br>
+
+`🎧` ──────────────── `♡` ──────────────── `🎀`
+
+</div>
 
 
