@@ -145,7 +145,7 @@ Motivation → 🎧
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dorsampd/Dorsamp/output/github-snake.svg" alt="Dorsa's GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Dorsampd/Dorsamp/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
 
 </div>
 
