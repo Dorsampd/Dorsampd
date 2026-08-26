@@ -20,24 +20,4 @@
 
 ---
 
-## 🌸 About Me
 
-```python
-class Dorsa:
-
-    major = "Computer Engineering 🎓"
-
-    interests = [
-        "Python 🐍",
-        "Web Development 🌐",
-        "Machine Learning 🤖",
-        "Linux 🐧"
-    ]
-
-    hobbies = [
-        "Coding 💻",
-        "K-pop 🎧",
-        "Creative Projects 🎀"
-    ]
-
-    motto = "make it work, then make it pretty ✨"
