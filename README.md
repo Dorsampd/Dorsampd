@@ -1,4 +1,3 @@
-## 🎀 My Little Toolbox
 
 <div align="center">
 
