@@ -1,20 +1,19 @@
 <div align="center">
 
 # 🎀 Hi, I'm Dorsa!
+<div align="center">
 
-### 💻 Computer Engineering Student • 🐍 Python Developer • 🤖 ML Explorer
-💻 Computer Engineering Student  
-🐍 Python Developer  
-🌐 Web Development  
-🤖 Machine Learning  
+🐍 **Python** · 🌐 **Web** · 🤖 **ML** · 🐧 **Linux**
 
-## 💗 Tech Stack
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-ff1493?style=for-the-badge&logo=html5&logoColor=white)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff1493?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8E%80;Coding+%2B+Music+%3D+My+Happy+Place+%F0%9F%8E%A7;Building+things+with+Python+%F0%9F%90%8D;Dreaming+in+code+%F0%9F%92%97" />
+![Git](https://img.shields.io/badge/Git-ff1493?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
