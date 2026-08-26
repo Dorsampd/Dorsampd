@@ -141,13 +141,7 @@ Motivation → 🎧
 
 ---
 
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dorsampd/Dorsamp/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
-
-</div>
+<img src="https://raw.githubusercontent.com/Dorsampd/Dorsamp/output/github-snake.svg?v=2" alt="GitHub Contribution Snake">
 
 ---
 
