@@ -1,91 +1,106 @@
-# Hi, I'm Dorsa 👋
+# DORSA
+### SOFTWARE DEVELOPER · COMPUTER ENGINEERING
 
-### Computer Engineering Student | Python Developer | Web Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0F,50:3B101C,100:6E1428&height=180&section=header&text=DORSA&fontSize=65&fontColor=F1F1F3&animation=fadeIn&fontAlignY=55&stroke=A32642&strokeWidth=1" width="100%" />
+</p>
 
-I'm a Computer Engineering student passionate about software engineering, backend development, and building practical applications.
-
-I enjoy turning ideas into functional software, exploring new technologies, and continuously improving my problem-solving skills.
-
-Currently focused on Python, Django, web development, and expanding my knowledge of software architecture and machine learning.
+<p align="center">
+  <code>BUILD WITH PURPOSE.</code> &nbsp; ◆ &nbsp;
+  <code>THINK BEYOND LIMITS.</code>
+</p>
 
 ---
 
-### 👩🏻‍💻 About Me
+### 01 / PROFILE
+
+I'm a Computer Engineering student and software developer interested in building practical, efficient, and well-structured applications.
+
+My primary focus is Python and backend development, with an interest in web technologies, software architecture, and machine learning.
+
+I believe in writing clean code, solving meaningful problems, and constantly pushing my technical boundaries.
 
 - 🎓 Computer Engineering Student
-- 💻 Interested in Backend & Full-Stack Development
-- 🐍 Working with Python and Django
-- 🌐 Building web applications with modern technologies
-- 🤖 Exploring Machine Learning and intelligent systems
-- 🐧 Working with Linux environments and Git
-- 🚀 Always learning, building, and improving
+- 🐍 Python & Backend Development
+- 🌐 Web Application Development
+- 🤖 Exploring Machine Learning
+- 🐧 Linux & Development Environments
 
 ---
 
-### 🛠️ Tech Stack
+### 02 / TECHNICAL ARSENAL
 
-**Programming Languages**
+**LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-171719?style=flat-square&logo=python&logoColor=A32642)
+![JavaScript](https://img.shields.io/badge/JavaScript-171719?style=flat-square&logo=javascript&logoColor=C5C5CC)
+![HTML5](https://img.shields.io/badge/HTML5-171719?style=flat-square&logo=html5&logoColor=A32642)
+![CSS3](https://img.shields.io/badge/CSS3-171719?style=flat-square&logo=css3&logoColor=C5C5CC)
 
-**Frameworks & Development**
+**FRAMEWORKS & PLATFORMS**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2D2D2D?style=for-the-badge)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Django](https://img.shields.io/badge/Django-171719?style=flat-square&logo=django&logoColor=A32642)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-171719?style=flat-square&logo=python&logoColor=C5C5CC)
+![WordPress](https://img.shields.io/badge/WordPress-171719?style=flat-square&logo=wordpress&logoColor=A32642)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-171719?style=flat-square&logo=woocommerce&logoColor=C5C5CC)
 
-**Tools & Technologies**
+**TOOLS & ENVIRONMENT**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-A selection of projects I'm building and exploring:
-
-- **Python Applications** — Desktop applications and interactive tools built with Python.
-- **Django Web Applications** — Backend development, database integration, and web-based solutions.
-- **VELORA BEAUTY** — An e-commerce practice project built with WordPress and WooCommerce.
-
-*Explore my repositories for source code and project details.*
+![Git](https://img.shields.io/badge/Git-171719?style=flat-square&logo=git&logoColor=A32642)
+![GitHub](https://img.shields.io/badge/GitHub-171719?style=flat-square&logo=github&logoColor=C5C5CC)
+![Linux](https://img.shields.io/badge/Linux-171719?style=flat-square&logo=linux&logoColor=A32642)
+![VS Code](https://img.shields.io/badge/VS_Code-171719?style=flat-square&logo=visualstudiocode&logoColor=C5C5CC)
+![MySQL](https://img.shields.io/badge/MySQL-171719?style=flat-square&logo=mysql&logoColor=A32642)
 
 ---
 
-## 📊 GitHub Statistics
+### 03 / SELECTED WORK
 
-<div align="center">
+**01 — VELORA BEAUTY**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dorsampd&show_icons=true&theme=github_dark&hide_border=true" />
+E-commerce development project focused on building a modern beauty and skincare shopping experience using WordPress and WooCommerce.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorsampd&layout=compact&theme=github_dark&hide_border=true" />
+**02 — PYTHON APPLICATIONS**
 
-<br><br>
+A collection of Python-based applications, desktop interfaces, and interactive tools developed to explore software functionality and user experience.
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Dorsampd&theme=github-dark-blue&hide_border=true" />
+**03 — DJANGO WEB PROJECTS**
 
-</div>
+Backend-focused web applications exploring routing, database integration, application logic, and dynamic content.
 
 ---
 
-### 🎯 Current Goals
+### 04 / CURRENT FOCUS
 
-- Strengthening my software engineering fundamentals
-- Building more complete and maintainable applications
-- Improving my backend development skills
+- Strengthening backend engineering fundamentals
+- Developing more structured Django applications
 - Exploring Machine Learning integration
-- Contributing to open-source projects
-- Growing as an international software developer
+- Improving Linux and Git workflows
+- Building a stronger software engineering portfolio
+- Exploring open-source contribution opportunities
 
 ---
 
-### 📫 Let's Connect
+### 05 / BEYOND THE CODE
 
+I value curiosity, independence, creativity, and continuous growth.
+
+I enjoy exploring the intersection of technology, design, and intelligent systems.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E1428,50:3B101C,100:0D0D0F&height=2&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>LESS NOISE. MORE IMPACT.</b>
+  <br/>
+  <sub>© DORSA · SOFTWARE ENGINEERING</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dorsampd">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-6E1428?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
