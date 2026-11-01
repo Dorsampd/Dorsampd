@@ -60,15 +60,17 @@ A selection of projects I'm building and exploring:
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dorsampd&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dorsampd&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorsampd&layout=compact&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorsampd&layout=compact&theme=github_dark&hide_border=true" />
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dorsampd&theme=github-dark-blue&hide_border=true" />
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Dorsampd&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
